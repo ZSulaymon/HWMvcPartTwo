@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWMvcPartTwo", "HWMvcPartTwo\HWMvcPartTwo.csproj", "{4078A875-CDBF-4F7F-AC45-01FE88615F96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4078A875-CDBF-4F7F-AC45-01FE88615F96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4078A875-CDBF-4F7F-AC45-01FE88615F96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4078A875-CDBF-4F7F-AC45-01FE88615F96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4078A875-CDBF-4F7F-AC45-01FE88615F96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3494EC6-1C92-440D-9999-FC5B4FCAA12B}
+	EndGlobalSection
+EndGlobal
